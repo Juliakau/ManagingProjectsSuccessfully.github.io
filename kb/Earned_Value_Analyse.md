@@ -5,6 +5,8 @@ author: Juliakau
 anrechnung: k oder a
 ---
 
+
+
 Kurzbeschreibung zu Earned_Value_Analyse um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
