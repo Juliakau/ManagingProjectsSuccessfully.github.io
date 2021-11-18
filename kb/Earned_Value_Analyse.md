@@ -8,7 +8,7 @@ anrechnung: k
 # Definition
 
 Den Projektfortschritt im Blick zu halten ist von hoher Bedeutung. 
-Dafür kann eine Earned Value Analyse, auch Earned Value Management genannt herangezogen werden.
+Dafür kann eine Earned Value Analyse (EVA), auch Earned Value Management genannt herangezogen werden.
 Die Earned Value Analyse hilft also den Projektfortschritt zu kontrollieren.
 Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
 Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang.
@@ -27,7 +27,25 @@ Dadurch wird bei abweichenden Ist-Werten nicht nur dieser eine Wert betrachtet, 
 Betrachtet man jedoch ebenso die Fertigstellung, so kann geprüft werden, ob die Kosten insgesamt stiegen oder ob das Projekt schneller bearbeitet wurde und die Kosten deshalb zu Beginn höher sind, jedoch insgesamt nicht angestiegen sind. Somit wird das Gesamtpaket betrachtet. [^3]
 
 
-# Durchführung
+# Kennzahlen
+Bei der EVA werden also drei Kennzahlen berücksichtigt.
+Der Vergleich aus Plan- und Istwert kann mit Hilfe des Fertigstellungswert interpretiert werden.
+
+## Planwert
+Der Planwert (planned value = PV) beschreibt sowohl die geplante Leistung als auch die geplanten Kosten.
+Diese beiden Werte ergeben multipliziert den Planwert: "PV = Planmenge x Plankosten"[^4]
+
+## Istwert
+Der Istwert (actual cost = AC) hingegen beschreibt die tatsächlichen Kosten zu einem bestimmten Zeitpunkt, die für die geleistete Arbeit aufgewendet wurden.
+Der Wert stezt sich wie folgt zusammen: "AC = Istmenge x Istkosten" [^4]
+
+## Fertigstellungswert
+Zuletzt wird der Fertigstellungswert (Earned Value = EV) betrachtet, welcher bei dieser Analyse entscheidend ist. 
+Dieser gibt eine Kennzahl an, die den Wert der Projektarbeit darstellt und wird wie folgt berechnet: 
+"EV = Istmenge x Plankosten"
+
+
+
 Die Durchführung einer Earned Value Analyse erfolgt in acht Schritten.
 1. Vorgänge auswählen
 2. Plan-, Ist- und Fertigstellungswert berechnen
