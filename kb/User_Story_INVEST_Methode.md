@@ -67,7 +67,6 @@ Es ist besonders wichtig, da durch die Testbarkeit geprüft werden kann, ob eine
 Diese Eigenschaft ist deshalb zwingend zu gewährleisten. [^4]
 
 # Quellen
-
 [^1]: [Product Backlog](https://scrumguide.de/product-backlog/)
 [^2]: [User Story](https://scrumguide.de/user-story/)
 [^3]: [INVEST-Kriterien](https://key2agile.de/agilenavigator/invest-kriterien/)
