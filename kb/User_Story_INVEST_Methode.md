@@ -1,6 +1,6 @@
 ---
 title: User_Story_INVEST_Methode
-tags: agil klassisch User Story User-Story INVEST-Methode Invest Scrum Productlog
+tags: agil klassisch User Story User-Story INVEST-Methode Invest Scrum Anwendungskriterien Anforderungen
 author: Juliakau
 anrechnung: a
 ---
