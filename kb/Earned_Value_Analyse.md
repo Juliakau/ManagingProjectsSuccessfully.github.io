@@ -33,16 +33,16 @@ Der Vergleich aus Plan- und Istwert kann mit Hilfe des Fertigstellungswert inter
 
 ## Planwert
 Der Planwert (planned value = PV) beschreibt sowohl die geplante Leistung als auch die geplanten Kosten.
-Diese beiden Werte ergeben multipliziert den Planwert: "PV = Planmenge x Plankosten"[^4]
+Diese beiden Werte ergeben multipliziert den Planwert: "PV = Planmenge x Plankosten". [^4]
 
 ## Istwert
 Der Istwert (actual cost = AC) hingegen beschreibt die tatsächlichen Kosten zu einem bestimmten Zeitpunkt, die für die geleistete Arbeit aufgewendet wurden.
-Der Wert stezt sich wie folgt zusammen: "AC = Istmenge x Istkosten" [^4]
+Der Wert stezt sich wie folgt zusammen: "AC = Istmenge x Istkosten". [^4]
 
 ## Fertigstellungswert
 Zuletzt wird der Fertigstellungswert (Earned Value = EV) betrachtet, welcher bei dieser Analyse entscheidend ist. 
 Dieser gibt eine Kennzahl an, die den Wert der Projektarbeit darstellt und wird wie folgt berechnet: 
-"EV = Istmenge x Plankosten"
+"EV = Istmenge x Plankosten". [^4]
 
 
 
@@ -65,5 +65,4 @@ Bei der Earned Value Analyse wird eine Momentaufnahme betrachtet und in welchem 
 [^1]: [Earned Value Management](https://www.projektmagazin.de/methoden/earned-value-management)
 [^2]: [Earned-Value-Analyse: Einführung und Beispiele](https://www.econstor.eu/handle/10419/214916) 
 [^3]: [Earned Value Analyse. Projektcontrolling mit dem Fertigstellungswert.](https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/)
-
-[Earned Value Management - einfach erklärt](https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
+[^4]: [Earned Value Management - einfach erklärt](https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
