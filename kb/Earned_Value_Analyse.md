@@ -8,10 +8,9 @@ anrechnung: k
 # Definition
 
 Den Projektfortschritt im Blick zu halten ist von hoher Bedeutung. 
-Dafür kann eine Earned Value Analyse (EVA), auch Earned Value Management genannt herangezogen werden.
-Die Earned Value Analyse hilft also den Projektfortschritt zu kontrollieren.
+Um diesen zu kontrollieren kann eine Earned Value Analyse (EVA), auch Earned Value Management genannt, herangezogen werden.
 Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
-Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang.
+Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang, also dem magischen Dreieck.
 Der Fertigstellungswert kann zur Überwachung der Termintreue, der Kostentreue sowie zur Prognose von Gesamtkosten und Endtermin herangezogen werden. 
 Daraus resultiert bei Nichterfüllung ein Frühwarnsystem und das Projekt kann gesteuert und angepasst werden. [^1]
 
@@ -19,12 +18,12 @@ Ein Fertigstellungswert, also der Earned Value, ist ein Maß für die bereits ge
 Somit entspricht die Earned Value Analyse einem Messverfahren, um den tatsächlich erzielten Fortschritt in Relation zu dem geplanten Ziel zu ermitteln und anschließend zu bewerten. [^2]
 
 # Nutzen
-Im Hinblick auf das magische Dreieck des Projektmanagements, bestehend aus Aufwand (bzw. Kosten), Zeit und Umfang (auch Leistung oder Ergebnis genannt), wird oftmals nur der Aufwand und die Zeit betrachtet. 
-Dabei wird der Soll- und Ist-Wert verglichen. 
-Bei der Earned Value Analyse wird im Gegensatz auch der Umfang als Fertigstellungswert mit einberechnet und somit eine Verbindung zwischen den drei Gebieten geschaffen. 
-So wird bei abweichenden Ist-Werten nicht nur dieser eine Wert betrachtet, sondern der Wert im Verhältnis zu den anderen beiden Werten. 
+Im Hinblick auf das magische Dreieck des Projektmanagements, wird oftmals nur der Aufwand und die Zeit betrachtet. 
+Dabei werden Soll- und Ist-Werte verglichen. 
+Bei der Earned Value Analyse im Gegensatz wird auch der Leistungsumfang als Fertigstellungswert mit einberechnet und somit eine Verbindung zwischen den drei Gebieten geschaffen. 
+So wird bei abweichenden Ist-Werten nicht nur dieser eine Wert betrachtet, sondern der Wert im Verhältnis zu den anderen beiden. 
 Übersteigen beispielsweise die Ist-Kosten die Plan-Kosten ist das zunächst negativ. 
-Betrachtet man jedoch ebenso die Fertigstellung, so kann geprüft werden, ob die Kosten insgesamt stiegen oder ob das Projekt schneller bearbeitet wurde und die zu diesem Zeitpunkt erhöhten Kosten dadurch entstanden sind. 
+Betrachtet man jedoch ebenso die Fertigstellung, so kann geprüft werden, ob die Kosten insgesamt anstiegen oder ob das Projekt schneller bearbeitet wurde und die zu diesem Zeitpunkt erhöhten Kosten dadurch entstanden sind. 
 Das Ergebnis wäre trotz Kostenüberschreitung in diesem Moment positiv, denn die Kosten im Gesamtprojekt blieben gleich, jedoch wurde das Projekt schneller erledigt als geplant. 
 Dieses Beispiel dient zur Veranschaulichung, wie wichtig es ist alle drei Komponenten im Zusammenspiel zu betrachten.[^3]
 
@@ -68,11 +67,13 @@ Der Index der beiden gibt eine relative Darstellung dieser Abweichungen, wodurch
 Die Indexe berechnen sich wie folgt:
 * CPI (cost performance index) = EV x AC
 * SPI (schedule performance index) = EV x PV 
-Anschließend können daraus Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet werden. [^5]
+Anschließend können daraus Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet werden.
+Anhand einer Interpretation dieser Kennzahlen kann das weitere Vorgehen des Projektes entschieden werden.
+Unterschieden werden kann bei Kostenüberschreitung beispielsweise zwischen Gesamtkosten anpassen und erhöhen oder Maßnahmen zur Kosteneinsparung einzuleiten.[^5]
 
 # Quellen
 [^1]: [Earned Value Management](https://www.projektmagazin.de/methoden/earned-value-management)
 [^2]: [Earned-Value-Analyse: Einführung und Beispiele](https://www.econstor.eu/handle/10419/214916) 
 [^3]: [Earned Value Analyse. Projektcontrolling mit dem Fertigstellungswert.](https://www.microtool.de/wissen-online/was-ist-die-earned-value-analyse/)
 [^4]: [Earned Value Management - einfach erklärt](https://www.kayenta.de/training-seminar/artikel/earned-value-management-einfach-erklaert.html)
-[^5]: [Die Earned-Value-Analyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse/)
+[^5]: [Die Earned-Value-Analyse einfach erklärt](https://projekte-leicht-gemacht.de/blog/projektmanagement/klassisch/projektsteuerung/earned-value-analyse)
