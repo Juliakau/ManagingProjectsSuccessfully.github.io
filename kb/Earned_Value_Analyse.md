@@ -56,8 +56,11 @@ Dieser gibt eine Kennzahl an, die den Wert der Projektarbeit darstellt und wird 
 "EV = Istmenge x Plankosten". [^4]
 
 
-![image](https://user-images.githubusercontent.com/93198016/142590978-68530e33-0fc4-446e-9179-8383d2ff5260.png)
-*Graphische Darstellung der Earned Value Analyse* [^5]
+![image](https://user-images.githubusercontent.com/93198016/142602064-52817a5c-e707-43c7-a586-bb17919461f8.png)
+
+*Graphische Darstellung der Earned Value Analyse* [^3]
+
+In dieser Abbildung ist der Ist-Aufwand geringer als der Plan-Aufwand, weswegen der Fertigstellungswert über dem Plan liegt. [^3]
 
 ### Kosten- und Terminvarianzindex
 Die Kosten und Terminvarianz beschreiben die Abweichungen des Istwertes von dem Planwert.
