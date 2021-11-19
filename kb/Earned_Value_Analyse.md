@@ -36,7 +36,7 @@ Die Durchführung einer Earned Value Analyse erfolgt in acht Schritten.
 5. Projektkosten prognostizieren
 6. Projektdauer prognostizieren
 7. Interpretation der berechneten Kennzahlen
-8. Projekt steuern 
+8. Projekt steuern  [^1]
 
 ## Kennzahlen
 Bei der EVA werden also drei Kennzahlen berücksichtigt.
@@ -57,7 +57,7 @@ Dieser gibt eine Kennzahl an, die den Wert der Projektarbeit darstellt und wird 
 
 
 ![image](https://user-images.githubusercontent.com/93198016/142590978-68530e33-0fc4-446e-9179-8383d2ff5260.png)
-*Graphische Darstellung der Earned Value Analyse*
+*Graphische Darstellung der Earned Value Analyse* [^5]
 
 ### Kosten- und Terminvarianzindex
 Die Kosten und Terminvarianz beschreiben die Abweichungen des Istwertes von dem Planwert.
