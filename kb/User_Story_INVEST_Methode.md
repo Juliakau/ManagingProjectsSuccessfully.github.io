@@ -55,7 +55,7 @@ Es muss also geprüft und abgeschätzt werden, ob eine User Story erfüllt werde
 
 ## Small
 Small kann auch besser als 'sized appropriately' beschrieben werden. 
-Eine USer Story soll also eine angemessene Größe haben.
+Eine User Story soll also eine angemessene Größe haben.
 Small, also dass die User Story klein ist, als reinen Anhaltspunkt ist zu ungenau. 
 Wichtig ist zu beachten, dass eine User Story sowohl zu klein als auch zu groß sein kann. 
 Eine angemessene Größe ist also wichtig, sowohl bei der Formulierung als auch bei der Umsetzung. 
