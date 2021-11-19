@@ -72,7 +72,7 @@ Die Indexe berechnen sich wie folgt:
 * SPI (schedule performance index) = EV x PV 
 Anschließend können daraus Prognosen für die Gesamtkosten und Gesamtdauer abgeleitet werden.
 Anhand einer Interpretation dieser Kennzahlen kann das weitere Vorgehen des Projektes entschieden werden.
-Unterschieden werden kann bei Kostenüberschreitung beispielsweise zwischen Gesamtkosten anpassen und erhöhen oder Maßnahmen zur Kosteneinsparung einzuleiten.[^5]
+Unterschieden werden kann bei Kostenüberschreitung beispielsweise zwischen Gesamtkosten anpassen und erhöhen oder Maßnahmen zur Kosteneinsparung einzuleiten. [^5]
 
 # Quellen
 [^1]: [Earned Value Management](https://www.projektmagazin.de/methoden/earned-value-management)
