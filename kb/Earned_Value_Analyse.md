@@ -36,7 +36,7 @@ Die Durchführung einer Earned Value Analyse erfolgt in acht Schritten.
 5. Projektkosten prognostizieren
 6. Projektdauer prognostizieren
 7. Interpretation der berechneten Kennzahlen
-8. Projekt steuern  [^1]
+8. Projekt steuern [^1]
 
 ## Kennzahlen
 Bei der EVA werden also drei Kennzahlen berücksichtigt.
