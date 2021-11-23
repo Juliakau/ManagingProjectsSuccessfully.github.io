@@ -10,7 +10,7 @@ anrechnung: k
 Den Projektfortschritt im Blick zu halten ist von hoher Bedeutung. 
 Um diesen zu kontrollieren kann eine Earned Value Analyse (EVA), auch Earned Value Management genannt, herangezogen werden.
 Anhand von Plan- und Ist-Daten werden Kennzahlen berechnet, die den Earned Value (Fertigstellungswert) beschreiben. 
-Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang, also dem magischen Dreieck.
+Diese Daten beziehen sich auf Kosten, Zeit und Leistungsumfang, also dem [magischen Dreieck](Magisches_Dreieck.md).
 Der Fertigstellungswert kann zur Überwachung der Termintreue, der Kostentreue sowie zur Prognose von Gesamtkosten und Endtermin herangezogen werden. 
 Daraus resultiert bei Nichterfüllung ein Frühwarnsystem und das Projekt kann gesteuert und angepasst werden. [^1]
 
@@ -18,7 +18,7 @@ Ein Fertigstellungswert, also der Earned Value, ist ein Maß für die bereits ge
 Somit entspricht die Earned Value Analyse einem Messverfahren, um den tatsächlich erzielten Fortschritt in Relation zu dem geplanten Ziel zu ermitteln und anschließend zu bewerten. [^2]
 
 # Nutzen
-Im Hinblick auf das [magische Dreieck](Magisches_Dreieck.md) des Projektmanagements, wird oftmals nur der Aufwand und die Zeit betrachtet. 
+Im Hinblick auf das magische Dreieck des Projektmanagements, wird oftmals nur der Aufwand und die Zeit betrachtet. 
 Dabei werden Soll- und Ist-Werte verglichen. 
 Bei der Earned Value Analyse im Gegensatz wird auch der Leistungsumfang als Fertigstellungswert mit einberechnet und somit eine Verbindung zwischen den drei Gebieten geschaffen. 
 So wird bei abweichenden Ist-Werten nicht nur dieser eine Wert betrachtet, sondern der Wert im Verhältnis zu den anderen beiden. 
@@ -56,7 +56,7 @@ Dieser gibt eine Kennzahl an, die den Wert der Projektarbeit darstellt und wird 
 "EV = Istmenge x Plankosten". [^4]
 
 
-![image](https://user-images.githubusercontent.com/93198016/142602064-52817a5c-e707-43c7-a586-bb17919461f8.png)
+![EVA Graph](https://user-images.githubusercontent.com/93198016/143000649-99fad025-13b4-47ff-a430-0e51ea7d5b02.jpg)
 
 *Graphische Darstellung der Earned Value Analyse* [^3]
 
